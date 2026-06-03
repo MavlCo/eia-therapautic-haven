@@ -8,6 +8,7 @@ export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=HELP`;
 export const CONTACT_EMAIL = "hello@eiatherapeutichaven.com";
 
 export const NAV_LINKS = [
+  { label: "Home", href: "/" },
   { label: "About", href: "/about" },
   { label: "Services", href: "/services" },
   { label: "How It Works", href: "/how-it-works" },
