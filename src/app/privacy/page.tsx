@@ -16,7 +16,7 @@ Your information is seen only by your assigned practitioner and is never shared,
   },
   {
     title: "What our sessions are for",
-    body: `EIA Therapeutic Haven provides structured emotional wellness support, emotional clarity sessions, and wellness guidance. Our sessions are designed to help individuals navigate stress, emotional overwhelm, life transitions, and related challenges.
+    body: `EIA Therapeutic Haven provides structured emotional wellness support, emotional clarity sessions, and wellness guidance. Our sessions are designed to help individuals, couples, and families navigate stress, emotional overwhelm, life transitions, and related challenges.
 
 This is not emergency psychiatric care, clinical psychotherapy, or crisis intervention. We are a structured emotional wellness and clarity practice.`,
   },

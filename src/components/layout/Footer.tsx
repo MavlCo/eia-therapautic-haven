@@ -73,8 +73,8 @@ export function Footer() {
             </p>
             <p className="text-sm text-[#b9ccb4] leading-relaxed">
               A structured mental wellness and emotional clarity practice
-              supporting individuals through stress, overwhelm, and life
-              transitions.
+              supporting individuals, couples, and families through stress,
+              overwhelm, and life transitions.
             </p>
 
             <div className="flex items-center gap-3 mt-6">

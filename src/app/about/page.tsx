@@ -10,7 +10,7 @@ import { OrgBlob } from "@/components/ui/OrgBlob";
 export const metadata: Metadata = {
   title: "About — Our Approach",
   description:
-    "A haven, by design. Learn about EIA Therapeutic Haven's structured-yet-compassionate philosophy and how we support individuals through mental health, wellness, and emotional clarity.",
+    "A haven, by design. Learn about EIA Therapeutic Haven's structured-yet-compassionate philosophy and how we support individuals, couples, and families through mental health, wellness, and emotional clarity.",
 };
 
 const PILLARS = [

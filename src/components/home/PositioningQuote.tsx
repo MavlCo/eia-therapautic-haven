@@ -43,8 +43,8 @@ export function PositioningQuote() {
             }}
           >
             &ldquo;A structured mental wellness and emotional clarity practice
-            supporting individuals through stress, overwhelm, and life
-            transitions — using guided therapeutic care.&rdquo;
+            supporting individuals, couples, and families through stress,
+            overwhelm, and life transitions — using guided therapeutic care.&rdquo;
           </blockquote>
 
           <p

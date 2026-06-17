@@ -116,9 +116,9 @@ export function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1], delay: 0.6 }}
             >
-              Structured emotional wellness and clarity support for individuals
-              navigating stress, overwhelm, and life transitions — wherever you
-              are in the world.
+              Structured emotional wellness and clarity support for individuals,
+              couples, and families navigating stress, overwhelm, and life
+              transitions — wherever you are in the world.
             </motion.p>
 
             {/* CTAs */}

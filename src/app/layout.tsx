@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     template: "%s | EIA Therapeutic Haven",
   },
   description:
-    "A structured mental wellness and emotional clarity practice supporting individuals through stress, emotional overwhelm, and life transitions. Confidential · Online · Globally available.",
+    "A structured mental wellness and emotional clarity practice supporting individuals, couples, and families through stress, emotional overwhelm, and life transitions. Confidential · Online · Globally available.",
   keywords: [
     "mental wellness",
     "emotional support",
