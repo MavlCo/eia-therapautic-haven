@@ -4,7 +4,7 @@ export const SITE_DESCRIPTION =
   "A structured mental wellness and emotional clarity practice supporting individuals, couples, and families through stress, emotional overwhelm, and life transitions using guided therapeutic care.";
 
 export const WHATSAPP_NUMBER = "2348184156456";
-export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=HELP`;
+export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=Hello`;
 export const CONTACT_EMAIL = "hello@eiatherapeutichaven.com";
 
 export const NAV_LINKS = [
